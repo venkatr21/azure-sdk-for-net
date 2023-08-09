@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Version>1.0.0-beta.1</Version>
     <PackageId>Azure.ResourceManager.PlaywrightTesting</PackageId>
-    <Description>Azure Resource Manager client SDK for Azure resource provider ServiceLinker.</Description>
-    <PackageTags>azure;management;arm;resource manager;servicelinker</PackageTags>
+    <Description>Azure Resource Manager client SDK for Azure resource provider PlaywrightTesting.</Description>
+    <PackageTags>azure;management;arm;resource manager;playwrighttesting</PackageTags>
   </PropertyGroup>
 </Project>

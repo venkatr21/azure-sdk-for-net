@@ -5,9 +5,9 @@ Run `dotnet build /t:GenerateCode` to generate code.
 ``` yaml
 azure-arm: true
 csharp: true
-library-name: ServiceLinker
-namespace: Azure.ResourceManager.ServiceLinker
-require: https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/servicelinker/resource-manager/readme.md
+library-name: PlaywrightTesting
+namespace: Azure.ResourceManager.PlaywrightTesting
+require: https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/playwrighttesting/resource-manager/readme.md
 output-folder: $(this-folder)/Generated
 clear-output-folder: true
 skip-csproj: true

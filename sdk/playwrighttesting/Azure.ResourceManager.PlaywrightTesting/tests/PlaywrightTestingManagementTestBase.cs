@@ -10,17 +10,17 @@ using System.Threading.Tasks;
 
 namespace Azure.ResourceManager.PlaywrightTesting.Tests
 {
-    public class ServiceLinkerManagementTestBase : ManagementRecordedTestBase<ServiceLinkerManagementTestEnvironment>
+    public class PlaywrightTestingManagementTestBase : ManagementRecordedTestBase<PlaywrightTestingManagementTestEnvironment>
     {
         protected ArmClient Client { get; private set; }
         protected SubscriptionResource DefaultSubscription { get; private set; }
 
-        protected ServiceLinkerManagementTestBase(bool isAsync, RecordedTestMode mode)
+        protected PlaywrightTestingManagementTestBase(bool isAsync, RecordedTestMode mode)
         : base(isAsync, mode)
         {
         }
 
-        protected ServiceLinkerManagementTestBase(bool isAsync)
+        protected PlaywrightTestingManagementTestBase(bool isAsync)
             : base(isAsync)
         {
         }

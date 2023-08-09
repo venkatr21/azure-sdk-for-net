@@ -2,7 +2,7 @@
 
 Run `dotnet build /t:GenerateTests` to generate code.
 
-# Azure.ResourceManager.ServiceLinker.Tests
+# Azure.ResourceManager.PlaywrightTesting.Tests
 
 > see https://aka.ms/autorest
 ``` yaml

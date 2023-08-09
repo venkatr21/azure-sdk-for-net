@@ -1,4 +1,4 @@
-# Microsoft Azure ServiceLinker management client library for .NET
+# Microsoft Azure PlaywrightTesting management client library for .NET
 
 **[Describe the service briefly first.]**
 
@@ -14,7 +14,7 @@ This library follows the [new Azure SDK guidelines](https://azure.github.io/azur
 
 ### Install the package
 
-Install the Microsoft Azure ServiceLinker management library for .NET with [NuGet](https://www.nuget.org/):
+Install the Microsoft Azure PlaywrightTesting management library for .NET with [NuGet](https://www.nuget.org/):
 
 ```dotnetcli
 dotnet add package Azure.ResourceManager.PlaywrightTesting --prerelease

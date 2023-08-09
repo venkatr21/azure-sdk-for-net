@@ -5,7 +5,7 @@ using Azure.Core.TestFramework;
 
 namespace Azure.ResourceManager.PlaywrightTesting.Tests
 {
-    public class ServiceLinkerManagementTestEnvironment : TestEnvironment
+    public class PlaywrightTestingManagementTestEnvironment : TestEnvironment
     {
     }
 }
