@@ -7,7 +7,7 @@ azure-arm: true
 csharp: true
 library-name: PlaywrightTesting
 namespace: Azure.ResourceManager.PlaywrightTesting
-require: https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/playwrighttesting/resource-manager/readme.md
+require: C:\Users\vens\Work\MALT\azure-rest-api-specs-pr\specification\azureplaywrightservice\resource-manager\readme.md
 output-folder: $(this-folder)/Generated
 clear-output-folder: true
 skip-csproj: true
